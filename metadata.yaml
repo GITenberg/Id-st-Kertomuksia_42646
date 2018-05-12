@@ -1,0 +1,43 @@
+_repo: Id-st-Kertomuksia_42646
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Suppanen, Adolf
+    - Aatto S.
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ahrenberg, Jacob
+    alias: Ahrenberg, Johan Jacob
+    birthdate: 1847
+    deathdate: 1914
+    gutenberg_agent_id: '41272'
+    url: http://www.gutenberg.org/2009/agents/41272
+    wikipedia: http://fi.wikipedia.org/wiki/Johan_Jacob_Ahrenberg
+description: ''
+gutenberg_issued: '2013-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42646'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+tableOfContents: 'Juoksija Jalon historia -- Yksinään -- Tukinuitto -- Ilman äidinkieltä
+  -- Joko: tahi -- Sairaan luona -- Hylkeenpyytäjät -- Leirielämä -- Poika-ajoilta:
+  I. Sudenajo. II. Miten muinoin matkustettiin.'
+title: 'Idästä: Kertomuksia'
+url: http://www.gutenberg.org/ebooks/42646
